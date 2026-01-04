@@ -1,7 +1,6 @@
 # 📈 AlphaMind Analytics
 
 **AlphaMind Analytics** is an AI-powered financial intelligence and stock market analysis platform. It integrates **real-time stock data**, **technical & fundamental analysis**, **market sentiment**, and **RAG-based AI predictions** into a fully interactive Streamlit dashboard.
-
 ---
 
 ## 🔹 Features
